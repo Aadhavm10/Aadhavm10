@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Aadhavm10
-- 👀 I’m interested in Full-Stack Web Development, AI, and Machine Learning
+- Website: https://aadhavmani.com/
+- LinkedIn: https://www.linkedin.com/m/in/aadhav-
+- Insta: https://www.instagram.com/aadhav_04/
 
 <!---
 Aadhavm10/Aadhavm10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
