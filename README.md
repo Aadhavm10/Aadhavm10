@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aadhavm10
+- 👋 Hi, I’m Aadhav
 - Software Engineer
 
 
